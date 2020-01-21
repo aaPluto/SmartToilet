@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToiletDesk", "SmartToiletDesk\SmartToiletDesk.csproj", "{DE63CDE2-2EA6-4C62-BAFA-340C61ACB319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToiletService", "SmartToiletService\SmartToiletService.csproj", "{406BC804-AE09-4DC1-9FEE-F3604129F1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daemon_SmartToilet", "Daemon_SmartToilet\Daemon_SmartToilet.csproj", "{D2225CD6-9DD9-42F7-9855-D2B3BE2D4FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToileConfigDev", "SmartToileConfigDev\SmartToileConfigDev.csproj", "{9A49E81C-68D7-4126-8CD1-F262C9EAD741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE63CDE2-2EA6-4C62-BAFA-340C61ACB319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE63CDE2-2EA6-4C62-BAFA-340C61ACB319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE63CDE2-2EA6-4C62-BAFA-340C61ACB319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE63CDE2-2EA6-4C62-BAFA-340C61ACB319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406BC804-AE09-4DC1-9FEE-F3604129F1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406BC804-AE09-4DC1-9FEE-F3604129F1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406BC804-AE09-4DC1-9FEE-F3604129F1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406BC804-AE09-4DC1-9FEE-F3604129F1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2225CD6-9DD9-42F7-9855-D2B3BE2D4FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2225CD6-9DD9-42F7-9855-D2B3BE2D4FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2225CD6-9DD9-42F7-9855-D2B3BE2D4FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2225CD6-9DD9-42F7-9855-D2B3BE2D4FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A49E81C-68D7-4126-8CD1-F262C9EAD741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A49E81C-68D7-4126-8CD1-F262C9EAD741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A49E81C-68D7-4126-8CD1-F262C9EAD741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A49E81C-68D7-4126-8CD1-F262C9EAD741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF6F53B7-2940-42CA-94EB-A9219AFAAF10}
+	EndGlobalSection
+EndGlobal
